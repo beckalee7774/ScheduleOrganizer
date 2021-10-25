@@ -1,0 +1,29 @@
+{"events": [
+    {
+        "end minute": 0,
+        "event description": "dentist",
+        "start day": 0,
+        "start minute": 0,
+        "end hour": 13,
+        "start hour": 12,
+        "end day": 0
+    },
+    {
+        "end minute": 0,
+        "event description": "school",
+        "start day": 1,
+        "start minute": 0,
+        "end hour": 15,
+        "start hour": 9,
+        "end day": 1
+    },
+    {
+        "end minute": 0,
+        "event description": "homework",
+        "start day": 4,
+        "start minute": 0,
+        "end hour": 18,
+        "start hour": 15,
+        "end day": 4
+    }
+]}
